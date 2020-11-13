@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["env_logger"] = [{"text":"impl Default for Builder","synthetic":false,"types":[]},{"text":"impl Default for Target","synthetic":false,"types":[]},{"text":"impl Default for WriteStyle","synthetic":false,"types":[]},{"text":"impl Default for TimestampPrecision","synthetic":false,"types":[]},{"text":"impl Default for Builder","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Default for Env&lt;'a&gt;","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

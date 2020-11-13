@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["env_logger"] = [{"text":"impl Clone for Style","synthetic":false,"types":[]},{"text":"impl Clone for Color","synthetic":false,"types":[]},{"text":"impl Clone for Target","synthetic":false,"types":[]},{"text":"impl Clone for WriteStyle","synthetic":false,"types":[]},{"text":"impl Clone for TimestampPrecision","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

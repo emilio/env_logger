@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["env_logger"] = [{"text":"impl Copy for Target","synthetic":false,"types":[]},{"text":"impl Copy for WriteStyle","synthetic":false,"types":[]},{"text":"impl Copy for TimestampPrecision","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
